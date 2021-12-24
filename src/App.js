@@ -187,16 +187,9 @@ const NewTab = () => {
 
               <b>
                 Developed By: <br />
-                <a target="blank" href="https://www.linkedin.com/in/parthdmaniar/">
-                  Parth Maniar
+                <a target="blank" href="http://www.rohitsinha.in">
+                  Rohit Sinha
                 </a>  <br />
-
-                <a target="blank" href="https://www.github.com/officialpm">
-                  <i class="fab fa-github mr-2"></i>
-                </a>
-                <a target="blank" href="https://www.linkedin.com/in/parthdmaniar/">
-                  <i class="fab fa-linkedin mr-2"></i>
-                </a>
               </b>
 
             </CardFooter>
@@ -223,16 +216,9 @@ const NewTab = () => {
 
               <b>
                 Developed By: <br />
-                <a target="blank" href="https://www.linkedin.com/in/parthdmaniar/">
-                  Parth Maniar
+                <a target="blank" href="http://www.rohitsinha.in">
+                  Rohit Sinha
                 </a>  <br />
-
-                <a target="blank" href="https://www.github.com/officialpm">
-                  <i class="fab fa-github mr-2"></i>
-                </a>
-                <a target="blank" href="https://www.linkedin.com/in/parthdmaniar/">
-                  <i class="fab fa-linkedin mr-2"></i>
-                </a>
               </b>
 
             </CardFooter>
