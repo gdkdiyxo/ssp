@@ -179,9 +179,8 @@ const NewTab = () => {
                   Slideshare.net
                 </a>  <br />
                 <b>2.</b> 🔍 Search for slides and copy its link.<br />
-                <b>3.</b> Paste the url in the box above and click on download. ✨<br />
+                <b>3.</b> Paste the url in the box above and click on download.<br />
               </p>
-              <p id="example">Example -<a target="blank" href="https://www.slideshare.net/AmazonWebServices/track-6-session-6-aws-ai"> https://www.slideshare.net/AmazonWebServices/track-6-session-6-aws-ai</a></p>
             </CardBody>
             <CardFooter id="footer">
 
@@ -197,14 +196,7 @@ const NewTab = () => {
           <Card>
             <CardBody>
               <CardTitle>About</CardTitle>
-              <p >
-                <div id="header">
-                  <img id="downloads" src={"https://parthmaniar.herokuapp.com/slideshare/downloadcountBadge?color=BLUE&text=Total%20Downloads"} alt="Slideshare Downloader" />
-                  <Button size="sm" pill theme="warning" onClick={NewTab}>
-                    <i class="fa fa-star mr-2"></i>
-                    <b>{"Star me on GitHub"}</b>
-                  </Button>
-                </div>
+              <p>
                 <br />
 
                 <b>SlideShare</b> is great for presentations and last minute assignments but unfortunately
